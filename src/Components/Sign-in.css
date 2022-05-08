@@ -1,0 +1,174 @@
+body {
+    width: 100%;
+    /* border: 1px solid red; */
+}
+
+.b1 {
+    display: flex;
+
+    width: 80%;
+    margin: auto;
+    
+}
+.f1 {
+
+    border-right: 1px solid grey;
+    width: 40%;
+
+    padding-top: 3%;
+
+}
+
+
+.CA {
+
+ margin: auto;
+}
+
+
+.CA h4 {
+    font-weight: bold;
+  margin: auto;
+  padding-left: 23%;
+    font-size: 20px;
+}
+
+.CA>p {
+
+    margin: auto;
+    padding-left: 23%;
+    padding-top: 1%;
+    font-size: 14px;
+}
+
+input {
+
+    margin-left: 23%;
+    width: 18em;
+    height: 2.4em;
+    margin-top: 4%;
+}
+
+h5 {
+
+margin: auto;
+padding-left: 22%;
+    margin-top: 2%;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.belowC {
+ 
+ margin: auto;
+ padding-left: 22%;
+   padding-top: 2%;
+   padding-bottom: 2%;
+    font-size: 13px;
+    color: grey;
+}
+
+.sName2 {
+
+    margin: auto;
+    display: flex;
+    padding-top: 2%;
+
+}
+
+.c1 {
+    margin-left: 1px;
+  
+
+}
+
+.p2 {
+margin-left: -19%;
+    line-height: 2px;
+    font-weight: bold;
+    margin-top: 3.34%;
+    color: grey;}
+
+.submit2 {
+   
+    margin-left: 22%;
+    font-size: 20px;
+    margin-top: 5%;
+    font-weight: bold;
+    border: 0px;
+    height: 40px;
+    background-color: rgb(149, 201, 111);
+    color: white;
+    width: 15em;
+
+
+}
+
+.submit2:hover {
+    background-color: rgb(94, 170, 94);
+}
+
+
+
+.b2 {
+    width: 40%;
+}
+
+
+.CA2>h4 {
+   padding-left: 30px;
+    font-weight: bold;
+    font-size: 20px;
+
+}
+
+.CA2 p {
+   padding-left: 30px;
+    font-size: 14px;
+}
+
+.img2 {
+    padding-left: 35px;
+}
+.img4{
+    display: flex;
+
+}
+.s1{
+  padding-top: 8px;
+    font-weight: bold;
+}
+.c4{
+  padding-top: 10%;
+    margin-left: -40%;
+    font-weight: bold;
+}
+.c2{
+    padding-top: 20%;
+    margin-left: -42%;
+    font-weight: bold;
+}
+.c3{
+  padding-top: 32%;
+    margin-left: -28%;
+    font-weight: bold;
+}
+.btn {
+    width: 15em;
+    background-color: rgb(149, 201, 111);
+    height: 40px;
+    color: white;
+    margin-top: 1%;
+    font-weight: bold;
+    font-size: 18px;
+    margin-left: 30px;
+    text-align: center;
+    border: 0px;
+
+
+}
+
+.btn:hover {
+    background-color: rgb(94, 170, 94);
+    color: white;
+}
