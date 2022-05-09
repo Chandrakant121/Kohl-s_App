@@ -1,0 +1,119 @@
+.b1 {
+    display: flex;
+    margin: auto;
+    margin-top: 5%;
+    margin-bottom: 8%;
+}
+
+.CA {
+    margin-top: 3%;
+    margin: auto;
+}
+
+.CA h4 {
+    padding: 10px;
+}
+
+.CA>p {
+    color: black;
+    padding: 10px;
+}
+
+.input-div {
+    width: 50%;
+    margin: auto;
+    padding: 20px;
+}
+
+input {
+    width: 22em;
+    margin: 12px 12px 12px 0px;
+    height: 2.4em;
+}
+
+
+h5 {
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.belowC {
+    width: 300px;
+    padding: 10px;
+    margin: auto;
+    font-size: 13px;
+    color: grey;
+}
+
+.submit2 {
+    font-size: 20px;
+    font-weight: bold;
+    border: none;
+    height: 40px;
+    background-color: rgb(149, 201, 111);
+    color: white;
+    width: 250px;
+    margin: auto;
+}
+
+.submit2:hover {
+    background-color: rgb(94, 170, 94);
+}
+
+.f1 {
+    border-right: 1px solid grey;
+    width: 40%;
+    margin: auto;
+}
+
+.b2 {
+    width: 40%;
+}
+
+.CA2 {
+    margin-top: 2%;
+    padding: 20px;
+}
+
+.CA2>h4 {
+    font-weight: bold;
+    font-size: 20px;
+    padding: 10px;
+
+}
+
+.CA2 p {
+    font-size: 14px;
+    padding: 10px;
+}
+
+.acc-img-div {
+    display: flex;
+}
+
+.acc-img-div ul li {
+    font-size: 18px;
+    font-weight: bold;
+    padding: 12px;
+    text-decoration: none;
+    list-style: none;
+}
+
+.btn {
+    width: 15em;
+    background-color: rgb(149, 201, 111);
+    height: 40px;
+    color: white;
+    margin-top: 4%;
+    font-weight: bold;
+    font-size: 18px;
+    margin-left: 30px;
+    text-align: center;
+    border: 0px;
+
+}
+
+.btn:hover {
+    background-color: rgb(94, 170, 94);
+    color: white;
+}
