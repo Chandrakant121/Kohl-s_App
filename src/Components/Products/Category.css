@@ -1,0 +1,28 @@
+.dotRemove {
+  list-style-type: none;
+}
+.section1 {
+  width: 20%;
+}
+.main {
+  display: flex;
+  justify-content: space-around;
+}
+.catBar {
+  position: sticky;
+  top: 10px;
+}
+
+/* .index {
+  position: fixed;
+  z-index: 1;
+  overflow-x: hidden;
+  top: 20px;
+  left: 10px;
+  background: rgb(255, 255, 255);
+} */
+
+selectChoose {
+  display: flex;
+  justify-content: flex-start;
+}
