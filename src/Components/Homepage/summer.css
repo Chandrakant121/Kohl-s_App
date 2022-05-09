@@ -1,0 +1,87 @@
+.summerinfo {
+    font-size: 2.875em;
+    font-weight: 500;
+    width: 800px;
+    text-align: center;
+    margin: auto;
+    padding: 20px;
+}
+
+.offCat {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.offCat>div>p {
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.categoryname {
+    display: flex;
+    /* border: 1px solid red; */
+    justify-content: space-evenly;
+    margin-bottom: 20px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.categoryname>div {
+    width: 130px;
+    height: 130px;
+    /* border: 1px solid black; */
+    border: 5px solid;
+    text-align: center;
+    /* margin-left: 5%; */
+    border-radius: 50%;
+}
+
+.categoryname>div>p {
+    margin-top: 40%;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.wedding {
+    position: relative;
+    width: 100%;
+}
+
+.wedding img {
+    width: 100%;
+    margin: 30px 0px 30px 0px;
+}
+
+.weddingdiv {
+    position: absolute;
+    width: 500px;
+    height: 150px;
+    font-size: 2.875em;
+    font-weight: bold;
+    background-color: whitesmoke;
+    backface-visibility: visible;
+    top: 6em;
+    right: 8em;
+    margin: auto;
+}
+
+.wedd {
+    border: 2px solid;
+    margin-top: 40px;
+}
+
+.sephora {
+    border: 2px solid;
+    /* height: 100px */
+    padding: 20px;
+    margin: 20px;
+}
+
+.seinfo {
+    font-size: 2.5em;
+    font-weight: 500;
+    width: 400px;
+    margin: auto;
+
+    /* margin-top: 30px; */
+}

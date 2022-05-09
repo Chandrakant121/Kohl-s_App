@@ -1,0 +1,112 @@
+.shop {
+    text-align: center;
+    font-size: 20px;
+    padding: 8px;
+}
+
+.shop-2 {
+    display: flex;
+    /* border: 1px solid black; */
+}
+
+.subshop-1 {
+    /* border: 1px solid black; */
+    width: 50%;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    cursor: pointer;
+    margin-left: 40px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.subshop-1-a {
+    text-align: center;
+    padding-top: 70px;
+    font-size: 22px;
+
+}
+
+.subshop-1-a h3 {
+    padding-top: 10px;
+    font-size: 30px;
+}
+
+.subshop-1-a a {
+    color: black;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.subshop-1-b {
+    display: flex;
+    text-align: center;
+    justify-content: space-evenly;
+    padding-top: 50px;
+    padding-bottom: 80px;
+}
+
+.subshop-2 {
+    display: flex;
+}
+
+.subshop-2-a {
+    /* border: 1px solid red; */
+    height: 195px;
+    width: 250px;
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 20px;
+    margin: 15px;
+    cursor: pointer;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.subshop-2-a a {
+    color: black;
+    font-size: 14px;
+}
+
+.kohls-find {
+    margin-top: 70px;
+    cursor: pointer;
+    position: relative;
+}
+
+.kohls-find img {
+    width: 100%;
+    margin: auto;
+}
+
+.kohls-find h3 {
+    position: absolute;
+    /* top: 236%; */
+    bottom: 93%;
+    text-align: center;
+    width: 100%;
+    font-size: 22px;
+}
+
+.kohls-find h1 {
+    position: absolute;
+    bottom: 83%;
+    text-align: center;
+    width: 100%;
+    font-size: 38px;
+}
+
+.kohls-find a {
+    position: absolute;
+    bottom: 78%;
+    text-align: center;
+    width: 100%;
+    color: black;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.para-kohl {
+    text-align: center;
+    font-size: 12px;
+    margin-top: 10px;
+    margin-bottom: 60px;
+}
