@@ -1,0 +1,85 @@
+.logo {
+    width: 100px;
+    height: 100px;
+}
+
+.adidas {
+    display: flex;
+    position: relative;
+    /* width: 80%; */
+}
+
+.adidas img {
+    width: 100%;
+    margin: 20px 0px 20px 0px;
+}
+
+.adidas>div>p {
+    font-size: 20px;
+}
+
+.ladka {
+    position: absolute;
+    background-color: gray;
+    top: 9%;
+    right: 2%;
+    /* top: 1em;
+    right: 1em */
+}
+
+.ladka div {
+    width: 150px;
+    text-align: center;
+    padding: 10px;
+}
+
+.ladka img {
+    width: 140px;
+    padding: 10px;
+}
+
+.ladki {
+    position: absolute;
+    background-color: gray;
+    top: 55%;
+    margin-left: 10px;
+    width: 250px;
+    height: 200px;
+}
+
+.ladki img {
+    width: 220px;
+    padding-left: 20px;
+}
+
+.ladki div {
+    width: 200px;
+    margin: auto;
+    text-align: center;
+}
+
+.today {
+    font-size: 2.875em;
+    font-weight: 500;
+    width: 800px;
+    margin: auto;
+    padding: 30px;
+}
+
+.cat {
+    cursor: pointer;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 10px;
+}
+
+.cat div img {
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.05) 0px 4px 6px -2px;
+    border-radius: 50%;
+}
+
+.cat p {
+    text-align: center;
+    padding: 20px;
+    font-weight: bold;
+}

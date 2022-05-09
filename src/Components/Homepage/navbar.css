@@ -1,0 +1,186 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    position: sticky;
+    top: 0;
+    z-index: 2;
+    background-color: aliceblue;
+}
+
+
+.navbarH {
+    cursor: pointer;
+    padding: 13px 13px;
+    /* width: 100%; */
+    background-color: rgb(238, 238, 238);
+    text-align: center;
+    border-bottom: 1px solid black;
+}
+
+.mediumfont {
+    font-size: 13px;
+}
+
+.details {
+    font-size: 11px;
+    color: black;
+}
+
+.offhd {
+    font-size: 14px;
+    text-decoration: none;
+    color: rgb(185, 0, 130);
+}
+
+.offh {
+    font-size: 12px;
+    text-decoration: none;
+    color: rgb(185, 0, 130);
+}
+
+/*=============================================== */
+
+.khol-logo {
+    cursor: pointer;
+    height: 80px;
+    padding-left: 40px;
+}
+
+.navbar-input {
+    height: 45px;
+    margin-top: 15px;
+    width: 490px;
+    text-align: center;
+    font-size: 17px;
+    color: gray;
+    margin-left: 10px;
+
+}
+
+.nav-acc {
+    cursor: pointer;
+    font-size: 14px;
+    /* margin-left: 356px; */
+}
+
+.submenu1 {
+    display: none;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    background-color: rgb(255, 254, 254);
+    /* color: black; */
+    margin-top: 0px;
+    width: 172px;
+    border-radius: 20px;
+    text-align: center;
+    padding-bottom: 15px;
+    padding-left: 2px;
+    /* width: 400px; */
+}
+
+.navbar_btn {
+    margin-right: 8px;
+}
+
+.navbar_btn:hover .submenu1 {
+    display: block;
+    position: absolute;
+}
+
+.navbar_btn ul li {
+    list-style: none;
+    margin-top: 2px;
+    width: 160px;
+    margin-bottom: 6px;
+    font-size: 16px;
+    margin-left: 6px;
+    color: rgb(5, 5, 5);
+}
+
+.navbar_btn ul li :hover {
+    color: rgb(104, 70, 70);
+    font-weight: 500;
+    font-size: 15px;
+}
+
+
+.navbar_btn ul :hover {
+    color: rgb(99, 77, 77);
+    font-weight: 500;
+    font-size: 15px;
+}
+
+.submenu1 ul button {
+    height: 30px;
+    width: 100px;
+    margin-top: 6px;
+    border-radius: 100px;
+    background-color: black;
+    color: aliceblue;
+    border: none;
+}
+
+.submenu1 ul button:hover {
+    background-color: rgb(103, 103, 103);
+    color: rgb(255, 255, 255);
+}
+
+.submenu1 ul li a {
+    color: rgb(17, 16, 16);
+    text-decoration: none;
+}
+
+.nav-mid-text {
+    font-weight: 500;
+    margin-top: 14px;
+}
+
+.navbar_btn2 {
+    z-index: 1;
+}
+
+
+/* ============================== */
+
+.navbarB {
+    border-top: 1px solid gray;
+    border-bottom: 1px solid gray;
+}
+
+.submenu2 {
+    display: none;
+    margin-left: 15px;
+    background-color: rgb(255, 255, 255);
+    padding-left: 15px;
+    padding-bottom: 15px;
+    width: 180px;
+
+}
+
+.submenu2 ul a li {
+    list-style: none;
+    margin-top: 10px;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.submenu2 ul a {
+    text-decoration: none;
+    color: black;
+}
+
+.submenu2 ul :hover {
+    color: rgb(104, 23, 23);
+    font-size: 17px;
+}
+
+
+.navbar_btn2:hover .submenu2 {
+    display: block;
+    position: absolute;
+}
+
+
+/* ============================ */
