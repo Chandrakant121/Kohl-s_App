@@ -1,0 +1,128 @@
+.body {
+    border: 1px solid grey;
+    width: 100%;
+}
+.main{
+    width: 80%;
+    margin: auto;
+    
+}
+
+
+.CA {
+ 
+    width: 80%;
+    margin: auto;
+    padding-top: 8%;
+
+
+}
+.CA>h4{
+    margin: auto;
+    padding-left: 18%;
+    padding-top: 1%;
+    font-size: 20px;
+}
+.CA>p {
+    margin: auto;
+    padding-left: 18%;
+    padding-top: 1%;
+    font-size: 14px;
+}
+
+
+.fName {
+    display: flex;
+    width: 80%;
+    margin: auto;
+
+    padding-left: 24%;
+
+}
+
+
+.fName h4 {
+    font-size: 16px;
+    font-weight: bold;
+    padding-right: 10px;
+}
+
+.fzk {
+    margin-right: 20px;
+}
+
+.fzk input {
+
+    height: 2.4em;
+    margin-left: 1.2%;
+    width: 18em;
+}
+
+.sName {
+    display: flex;
+    width: 80%;
+    margin: auto;
+    padding-top: 4px;
+
+
+    
+}
+.check{
+    margin-left: 19%;
+   height: 20px;
+
+}
+.check>input{
+    height: 40px;
+}
+.p {
+    margin-left: 1%;
+    line-height: 2px;
+    font-weight: bold;
+    margin-top: 1.34%;
+    color: grey;
+}
+.common{
+    width: 100%;
+    margin: auto;
+  padding-right: 2%;
+}
+
+.para {
+    width: 80%;
+    margin: auto;
+    color: grey;
+    font-size: 14px;
+    padding-left: 24%;
+}
+
+hr {
+    width: 50%;
+padding-left: 22%;
+}
+
+.img {
+    width: 80%;
+    padding-left: 24%;
+    padding-top: 10px;
+
+    margin: auto;
+}
+
+.q {
+    width: 80%;
+    padding-top: 10px;
+    margin: auto;
+}
+
+.submit {
+    margin-left: 18%;
+    font-size: 20px;
+    font-weight: bold;
+    width: 18em;
+    border: 0px;
+    height: 40px;
+    background-color: rgb(149, 201, 111);
+    color: white;
+
+}
